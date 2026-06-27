@@ -1,26 +1,41 @@
-# data-structure-algorithms-practice
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 DSA Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Radhika134/data-structure-algorithms-practice/tree/master/0001-two-sum) |
-| [0015-3sum](https://github.com/Radhika134/data-structure-algorithms-practice/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/Radhika134/data-structure-algorithms-practice/tree/master/0018-4sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Radhika134/data-structure-algorithms-practice/tree/master/0001-two-sum) |
-## Two Pointers
-|  |
-| ------- |
-| [0015-3sum](https://github.com/Radhika134/data-structure-algorithms-practice/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/Radhika134/data-structure-algorithms-practice/tree/master/0018-4sum) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/Radhika134/data-structure-algorithms-practice/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/Radhika134/data-structure-algorithms-practice/tree/master/0018-4sum) |
-<!---LeetCode Topics End-->
+Welcome to my coding journey! 👋
+
+This repository contains my solutions to coding problems from various platforms. I use it to track my DSA progress, revise concepts, and prepare for software engineering interviews.
+
+---
+
+## 📚 Platforms
+
+- 🟢 LeetCode
+- 🔵 GeeksforGeeks
+
+---
+
+## 💻 Languages
+
+- C++
+- Java 
+
+---
+
+## 🎯 Current Progress
+
+| Platform | Problems Solved |
+|----------|----------------:|
+| LeetCode | 90+ |
+| GeeksforGeeks | Updating... |
+
+---
+
+## 🎯 Goals for 2026
+
+- ✅ Complete 500+ LeetCode Problems
+- ✅ Strengthen Core DSA
+- ✅ Build Strong GitHub Portfolio
+- ✅ Crack Product-Based Company Interviews
+
+---
+
+⭐ *Consistency beats intensity.*
