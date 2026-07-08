@@ -34,7 +34,7 @@ public:
         int n = weights.size();
 
         int low = *max_element(weights.begin(), weights.end());
-        int high = totalWeight(weights,n);
+        int high = totalWeight(weights,n);  //accumulate(weights.begin(), weights.end(), 0);
         int ans = -1;
         while(low<=high)
         {
