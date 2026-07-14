@@ -30,7 +30,7 @@ class Solution {
             fast = fast.next;
         }
         
-        if(slow == dummy) return head.next;
+        // if(slow == dummy) return head.next;   nhi lgega toh bhi chlega
         slow.next = slow.next.next;
         return dummy.next;
 
