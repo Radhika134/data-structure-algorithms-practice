@@ -24,8 +24,9 @@ public:
         for(int i=0;i<s.size();i++)
         {
             int mid = i;
-           
+            //odd length
             expand(s, mid, mid, start, longLen);
+            //even length
             expand(s, mid, mid+1, start, longLen);  
            
         }
